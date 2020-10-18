@@ -1,2 +1,1 @@
-Hello
-Goodbye
+This branch has awesome features compared to the current live site
